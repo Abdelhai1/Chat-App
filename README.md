@@ -1,4 +1,4 @@
-# The Holy Quran App (القرآن الكريم)
+# Chat app :
 
 Application of the g chat, developed using Flutter & Dart.
 
