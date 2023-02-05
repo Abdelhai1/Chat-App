@@ -1,12 +1,40 @@
-# chat_app
+# The Holy Quran App (القرآن الكريم)
 
-A new Flutter project.
+Application of the g chat, developed using Flutter & Dart.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+![Flutter ChatApp with firebase](thumbnail.png)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook).
+
+## 🎯 Main Features
+✅ Create new account (name and email and password or with Gmail)
+
+✅ Works online
+
+✅ search for groups by the name 
+
+✅ Profile page
+
+✅ Groups page
+
+✅ Chat page with Grouo info contains the admin and group members
+
+✅ Can create your own group
+
+🔜 Profile photo (comming soon)
+
+
+
+
+## ⚙ Installation steps
+
+You can copy anything from the code source.
+
+
+## 🧑 Author
+
+__Guir md Abdelhai__
+
+If you liked the repo then kindly support it by giving it a star ⭐!
+
